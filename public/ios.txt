@@ -5,4 +5,4 @@ FINAL,DIRECT
 
 [Host]
 www.growtopia1.com = 139.59.94.156
-www.growtopia2.com = 139.59.251.89
+www.growtopia2.com = 206.189.151.24
